@@ -1,3 +1,3 @@
 #WRITE YOUR CODE IN THIS FILE
-def echo(a):
- return a + a + a + a + a
+def echo(a, b):
+    return a * b
